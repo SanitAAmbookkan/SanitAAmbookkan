@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Hey there, I'm Sanit 👋
+# Hey there, I'm Sanit 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2E8B57&center=true&vCenter=true&width=700&lines=CREATIVE;DESIGNER;EDITOR;DEVELOPER" alt="Typing Animation">
 
@@ -22,48 +22,36 @@
 
 ---
 
-## <div align="center">🌱 About Me</div>
+## <div align="justify">About Me</div>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="60%" align="center">
-
+<td width="80%" align="justify">
 I wasn't someone who knew exactly what i wanted to build when i started.  
 I just enjoyed creating things — designing interfaces, editing videos, and bringing ideas to life.
-
 Over time, i discovered that software development was the perfect blend of creativity and problem-solving.
-
-Fast-forward ⏩ to today, i'm a **Computer Science undergraduate** who:
-
 <br>
-
-🚀 Enjoys turning ideas into products people can actually use  
+Fast-forward ->>to today, i'm a Computer Science undergraduate who:
 <br>
-🤖 Builds AI-powered applications  
+-Enjoys turning ideas into products people can actually use  
 <br>
-🎨 Loves designing clean, accessible, and intuitive user experiences  
+-Builds AI-powered applications  
 <br>
-🌱 Is currently learning system design  
+-Loves designing clean, accessible, and intuitive user experiences  
 <br>
-🌍 Contributes to open-source projects whenever i can  
+-Is currently learning system design  
 <br>
-💡 Believes there's always a better way to build something  
+-Contributes to open-source projects whenever i can  
+<br>
+-Believes there's always a better way to build something  
 
 <br>
 
-Outside of coding, you'll probably find me designing in **Figma**, editing videos, exploring new technologies, or working on the next random idea that might become a real product.
-
+Outside of coding, you'll probably find me designing in **Figma** ❀, editing videos, exploring new technologies, or working on the next random idea that might become a real product.
 <br>
-
 <b>Still learning. Still building.</b>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 </td>
 </tr>
@@ -79,7 +67,7 @@ Outside of coding, you'll probably find me designing in **Figma**, editing video
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
 <br><br>
 
@@ -91,7 +79,15 @@ Outside of coding, you'll probably find me designing in **Figma**, editing video
 
 ### Design & Creative Tools
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,unity" />
+<img src="https://skillicons.dev/icons?i=figma,canva,affinity,framer" />
+
+<br><br>
+
+### AI & Productivity Tools
+
+<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white">
+
+<img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=lovable&logoColor=white">
 
 </div>
 
@@ -114,10 +110,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: sanit-a-ambookkan
           outputs: |
             dist/github-contribution-grid-snake.svg
 
@@ -129,18 +126,6 @@ jobs:
 -->
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-
-</div>
-
----
-
-## <div align="center">📊 GitHub Stats</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanit-a-ambookkan&show_icons=true&theme=transparent&hide_border=true&title_color=2e8b57&icon_color=2e8b57"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanit-a-ambookkan&theme=transparent&hide_border=true&ring=2e8b57&fire=2e8b57"/>
 
 </div>
 
@@ -162,7 +147,7 @@ jobs:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="sanitambookkan@gmail.com">
+<a href="mailto:sanitambookkan@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -174,7 +159,7 @@ jobs:
 
 <div align="center">
 
-### 💚 Building ideas into reality, one commit at a time.
+### Building ideas into reality.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d25,100:0b6623&height=120&section=footer&animation=fadeIn" width="100%">
 

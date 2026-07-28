@@ -34,23 +34,24 @@ Over time, i discovered that software development was the perfect blend of creat
 <br>
 Fast-forward ->>to today, i'm a Computer Science undergraduate who:
 <br>
--Enjoys turning ideas into products people can actually use  
+- Enjoys turning ideas into products people can actually use  
 <br>
--Builds AI-powered applications  
+- Builds AI-powered applications  
 <br>
--Loves designing clean, accessible, and intuitive user experiences  
+- Loves designing clean, accessible, and intuitive user experiences  
 <br>
--Is currently learning system design  
+- Is currently learning system design  
 <br>
--Contributes to open-source projects whenever i can  
+- Contributes to open-source projects whenever i can  
 <br>
--Believes there's always a better way to build something  
+- Believes there's always a better way to build something  
 
 <br>
 
 Outside of coding, you'll probably find me designing in **Figma** ❀, editing videos, exploring new technologies, or working on the next random idea that might become a real product.
 <br>
-<b>Still learning. Still building.</b>
+
+<b> **Still learning. Still building.** </b>
 
 </td>
 </tr>
@@ -73,46 +74,14 @@ Outside of coding, you'll probably find me designing in **Figma** ❀, editing v
 
 </div>
 
----
+<h2 align="center">🐍 Contribution Snake</h2>
 
-
-## <div align="center"> Contribution Snake</div>
-
-<div align="center">
-
-<!--
-Generate snake animation using GitHub Action:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sanit-a-ambookkan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SanitAAmbookkan/SanitAAmbookkan/output/ocean.gif"
+    width="100%"
+    alt="GitHub Contribution Snake">
+</p>
 
 ## <div align="center">Connect With Me</div>
 

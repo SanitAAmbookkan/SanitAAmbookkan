@@ -16,7 +16,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sanit-a-ambookkan&label=Profile%20Views&color=2e8b57&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -61,37 +60,21 @@ Outside of coding, you'll probably find me designing in **Figma** ❀, editing v
 
 ---
 
-## <div align="center"> Tech Stack</div>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
 
-### Languages
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,mysql,firebase,git,github,figma,canva,affinity,framer&perline=7" />
+</p>
 
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,mysql,firebase" />
-
-<br><br>
-
-### Design & Creative Tools
-
-<img src="https://skillicons.dev/icons?i=figma,canva,affinity,framer" />
-
-<br><br>
-
-### AI & Productivity Tools
-
-<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white">
-
-<img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=lovable&logoColor=white">
 
 </div>
 
 ---
+
 
 ## <div align="center"> Contribution Snake</div>
 
@@ -150,9 +133,12 @@ jobs:
 <a href="mailto:sanitambookkan@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
+<br>
 </div>
-
+<div align="center">
+<br>
+<img src="https://komarev.com/ghpvc/?username=sanit-a-ambookkan&label=Profile%20Views&color=2e8b57&style=flat" alt="Profile Views"/>
+</div>
 <br>
 
 ---
@@ -162,6 +148,7 @@ jobs:
 ### Building ideas into reality.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d25,100:0b6623&height=120&section=footer&animation=fadeIn" width="100%">
+
 
 </div>
 
